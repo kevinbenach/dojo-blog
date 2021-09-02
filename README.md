@@ -1,3 +1,15 @@
+
+Please make sure tu run the JSON server, if not, the app won't work.
+
+Enter this command line to start running JSON server:  npx json-server --watch data/db.json --port 8000
+
+
+DOJO BLOG:
+
+- Add, delete and modify a blog page using JSON server to fetch data.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
