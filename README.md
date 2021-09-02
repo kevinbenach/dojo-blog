@@ -1,5 +1,7 @@
 
-Please make sure tu run the JSON server, if not, the app won't work.
+Please make sure to INSTALL NPM and RUN the JSON server, if not, the app won't work.
+
+To install NPM: npm install
 
 Enter this command line to start running JSON server:  npx json-server --watch data/db.json --port 8000
 
